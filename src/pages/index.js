@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site. NOTIFY ME PLEASE</p>
+    <p>Welcome to your new Gatsby site. NOTIFY ME PLEASE. enable comments</p>
       <p>Show me the diff</p>
       <p>Hello Slack from PR again</p>
     <p>Now go build something great.GO GO GO</p>
